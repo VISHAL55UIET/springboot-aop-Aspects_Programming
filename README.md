@@ -180,7 +180,7 @@ If you'd like to improve the project:
 **Vishal Singh**
 
 - GitHub: https://github.com/VISHAL55UIET
-- LinkedIn: https://www.linkedin.com/in/vishal-singh-75b571290/
+- LinkedIn: https://www.linkedin.com/in/vishal-singh-5b052828a/
 
 ---
 
